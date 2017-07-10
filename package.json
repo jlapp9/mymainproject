@@ -1,0 +1,14 @@
+{
+  "name": "mymainproject",
+  "version": "1.0.0",
+  "description": "My main test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jameson",
+  "license": "ISC",
+  "dependencies": {
+    //"@jameson/mysubproject": "file:../mysubproject"
+  }
+}
